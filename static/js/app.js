@@ -76,6 +76,5 @@ filter_list.forEach(function (filter) {
 }
 );
 
-
 // Build the table when the page loads
 buildTable(tableData);
